@@ -11,7 +11,8 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "**/*.jsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "constants/Colors.js", "hooks/useThemeColor.js", "hooks/useColorScheme.web.js", "hooks/useColorScheme.js"  ]
 }
